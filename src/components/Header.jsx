@@ -15,9 +15,9 @@ export default function Header({ app_name }) {
 
   return (
     <header className="card bg-base-200 shadowed">
-      <div className="card-body flex-row items-center justify-between gap-4">
-        <div className="flex flex-row flex-1 items-center gap-3">
-          <div className="flex h-12 w-12 items-center justify-center rounded-field bg-primary shadowed">
+      <div className="card-body flex-col items-start justify-between gap-4 sm:flex-row sm:items-center">
+        <div className="flex flex-row flex-1 items-center gap-3 ">
+          <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-field bg-primary shadowed">
             <FontAwesomeIcon
               icon="fa-solid fa-check"
               className="text-2xl text-primary-content"
