@@ -23,10 +23,6 @@ A modern habit tracking app built with React (Vite), designed to help users stay
 
 ---
 
-## 📦 Repository
-
-👉 https://github.com/hashemi1997ali/habit-tracker.git
-
 ---
 
 ## 🧩 Components Overview
