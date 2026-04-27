@@ -19,7 +19,8 @@ A modern habit tracking app built with React (Vite), designed to help users stay
 
 ## 🌐 Live Demo
 
-👉 https://habit-tracker-yv55.onrender.com
+🔗 **Website:**  
+Click [here](https://habit-tracker-yv55.onrender.com) to view the live demo.
 
 ---
 
